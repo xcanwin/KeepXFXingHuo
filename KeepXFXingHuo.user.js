@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name              KeepXFXingHuo
-// @description       沉浸式体验科大讯飞的星火认知大模型，支持国产，感觉讯飞星火体验还不错
-// @version           1.1
+// @description       这是一款体验优化插件，沉浸式体验科大讯飞的星火认知大模型。支持国产，感觉讯飞星火体验还不错，智商在线。
+// @version           1.2
 // @author            xcanwin
 // @namespace         https://github.com/xcanwin/KeepXFXingHuo/
 // @supportURL        https://github.com/xcanwin/KeepXFXingHuo/
