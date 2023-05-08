@@ -2,6 +2,17 @@
 
 - 沉浸式体验科大讯飞的星火认知大模型，支持国产，感觉讯飞星火体验还不错
 
+## 展示
+
+<img src="./assets/index_chenjin.png" width="750"></img>
+
+## 用法
+
+1. 浏览器首选```Chrome```、```Firefox```、```Edge```，其他主流浏览器都是主动兼容这3个浏览器的；
+2. 安装```Tampermonkey```浏览器拓展，可以从 [Tampermonkey官网](https://www.tampermonkey.net/) 安装；
+3. 安装```KeepXFXingHuo```插件，可以从 [安装渠道](#安装渠道) 选一个渠道安装；
+4. 打开 [讯飞星火](https://xinghuo.xfyun.cn/desk) 尽情享用吧；
+
 ## 安装渠道
 
 | 序号 | UserScript源 |
