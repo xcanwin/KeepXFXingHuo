@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name              KeepXFXingHuo
 // @description       这是一款体验优化插件，沉浸式体验科大讯飞的星火认知大模型。支持国产，感觉讯飞星火体验还不错，智商在线。
-// @version           2.1
+// @version           2.2
 // @author            xcanwin
 // @namespace         https://github.com/xcanwin/KeepXFXingHuo/
 // @supportURL        https://github.com/xcanwin/KeepXFXingHuo/
@@ -41,7 +41,7 @@
                 welcomecontent[1].style.visibility = "hidden"; //简洁欢迎用语
                 welcomecontent[2].style.visibility = "hidden"; //简洁欢迎用语
             }
-            if ($$(".pages_switchTheme__2DNsU, #watermark-wrapper, .header_version_select__qCy40, .welcome-window_prompt_wrapper__nExUq, .affix_affix_content__-gEBT, .chat-window_tip__-THKF").length == 0) {
+            if ($("#chat-content-wrapper") && $$(".pages_switchTheme__2DNsU, #watermark-wrapper, .header_version_select__qCy40, .welcome-window_prompt_wrapper__nExUq, .affix_affix_content__-gEBT, .chat-window_tip__-THKF").length == 0) {
                 clearInterval(nInterval1);
             }
         }, 300);
